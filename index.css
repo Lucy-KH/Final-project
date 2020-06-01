@@ -1,0 +1,675 @@
+div.card {
+    position: absolute;
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    background-color: rgba(130, 66, 164, 0.83);
+}
+div.card div.logo {
+    position: absolute;
+    left: 11.1%;
+    right: 87.43%;
+    top: 0.55%;
+    bottom: 98.86%;
+    background-color: #f2f2f2
+}
+.nav-items li {
+    list-style: none;
+    margin-right: 100px;
+}
+.nav-items li:nth-last-of-type(1){
+    margin: 0px;
+}
+.home {
+    position: absolute;
+    width: 76px;
+    height: 33px;
+    left: 670px;
+    top: 36px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    color: #ffffff;
+
+}
+.Portfolio {
+    position: absolute;
+    width: 109px;
+    height: 33px;
+    left: 818px;
+    top: 36px;
+    font-family:Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    color: #ffffff;
+}
+.Testimonials{
+    position: absolute;
+    width: 160px;
+    height: 33px;
+    left: 981px;
+    top: 36px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    color: #ffffff;
+}
+.Services{
+    position: absolute;
+    width: 106px;
+    height: 33px;
+    left: 1186px;
+    top: 36px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    color: #ffffff; 
+}
+.Supporters{
+    position: absolute;
+    width: 138px;
+    height: 33px;
+    left: 1350px;
+    top: 36px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    color: #ffffff;
+}
+.About us{
+    position: absolute;
+    width: 112px;
+    height: 33px;
+    left: 1538px;
+    top: 36px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    color: #ffffff;
+}
+.Contact us{
+    position: absolute;
+    width: 135px;
+    height: 33px;
+    left: 1704px;
+    top: 36px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    color: #ffffff;
+}
+.div img {
+    position: absolute;
+    width: 1920px;
+    height: 870px;
+    left: 100px;
+    top: 250px;
+}
+.box {
+    position: absolute;
+    width: 1019px;
+    height: 421px;
+    left: 110px;
+    top: 457px;
+    background-color:#f2f2f2 ;
+
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header h1 {
+    position: absolute;
+    width: 397;
+    height: 62px;
+    left: 167px;
+    top: 504px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 60px;
+    line-height: 70px;
+    text-transform: uppercase;
+    color: #b0d135;
+
+}
+header p {
+    position: absolute;
+    width: 845px;
+    height: 108px;
+    left: 167px;
+    top: 612px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 24px;
+    line-height: 36px;
+    color: #b0d135;
+}
+button {
+   position: absolute; 
+   width: 86px;
+   height: 21px;
+   left:284px;
+   top: 776px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+   font-weight:bold;
+   font-size: 18px;
+   line-height: 21px;
+   color: #b0d135;
+}
+div .card div .title Portfolio{
+    position: absolute;
+    width: 400px;
+    left: 250px;
+    top: 1990px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 90px;
+    line-height: 100px;
+    text-transform: uppercase;
+    color: #8242A4;
+}
+div .card div .title span{
+    position: absolute;
+    width: 1500px;
+    height: 80px;
+    left: 260px;
+    top: 2400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 50px;
+    color: #8242A4; 
+}
+div .sqareu div .story h1{
+    width:500px ;
+    height: 90px;
+    left: 1100px;
+    top:2500px ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 80px;
+    text-transform: uppercase;
+    color: #8242A4;
+}
+div .sqareu div .story span{
+    position: absolute;
+    width: 650px;
+    height: 260px;
+    left: 1010px;
+    top: 2530px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 36px;
+    
+    color: #8242A4;
+}
+
+div .img2 img {
+    position: absolute;
+    width: 100px;
+    height: 700px;
+    left:10px;
+    top:500px ;
+}
+div .card div .text Testimonials {
+    position: absolute;
+    width: 200px;
+    height: 90px;
+    left: 110px;
+    top: 2550px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 70px;
+    text-transform: uppercase;
+     color: #8242A4;
+}
+div .card div .text .span {
+    position: absolute;
+    width: 1300px;
+    height: 100px;
+    left: 120px;
+    top: 2600px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 50px;
+    color: #8242A4;
+}
+div .card div .image {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 350px;
+    border-radius: 500px;
+    top: 2700px;
+}
+div .card div .Taguhi Avetisyan{
+    position: absolute;
+    width: 450px;
+    height: 50px;
+    left: 400px;
+    top: 2900px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 37px;
+    color: #683594;
+}
+div .card div .text {
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    left: 300px;
+    top: 3000px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 52px;
+    color: #8242A4; 
+}
+div .card div .text div .img {
+    position: absolute;
+    width: 300px;
+    height: 300x;
+    left: 900px;
+    border-radius: 500px; 
+    top: 2700px;
+}
+div .card div .text  .mane avagyan{
+    position: absolute;
+    width: 450px;
+    height: 50px;
+    left: 900px;
+    top: 2900px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 37px;
+    color: #683594;
+}
+div .card div .text span {
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    left: 800px;
+    top: 3000px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 52px;
+    color: #8242A4; 
+}
+div .card div .text div .img {
+    position: absolute;
+    width: 300px;
+    height: 300x;
+    left: 1400px;
+    border-radius: 500px; 
+    top: 2700px;
+}
+div .card div .text  .Karin avetisyan{
+    position: absolute;
+    width: 450px;
+    height: 50px;
+    left: 1400px;
+    top: 2900px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 37px;
+    color: #683594;
+}
+div .card div .text span {
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    left: 1400px;
+    top: 3000px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 52px;
+    color: #8242A4; 
+}
+div .img3 {
+   position: absolute; 
+   width: 1000px;
+   height: 700px;
+   left: 2000px;
+}
+div .text Services {
+    position: absolute;
+    width: 300px;
+    height: 90px;
+    left: 250px;
+    top: 3500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 70px;
+    text-transform: uppercase;
+    color: #8242A4;
+}
+div .text .span {
+    position: absolute;
+    width: 1300px;
+    height: 90px;
+    left: 250px;
+    top: 3610px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+div .text  h1 User interface design  {
+    position: absolute;
+    width: 700px;
+    height: 160px;
+    left: 250px;
+    top: 3710px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 90px;
+    text-transform: uppercase;
+}
+div .text span {
+    position: absolute;
+    width: 700px;
+    height: 250px;
+    left: 250px;
+    top: 3900px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+div .img4 {
+    position: absolute; 
+    width: 1000px;
+    height: 700px;
+    left: 10px;
+}
+div .text h1  .About us {
+    position: absolute;
+    width: 300px;
+    height: 90px;
+    left: 250px;
+    top: 4200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 70px;
+    line-height: 90px;
+    color: #8242A4;
+}
+div text span {
+    position: absolute;
+    width: 1282px;
+    height: 72px;
+    left: 250px;
+    top: 4910px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 50px;
+    color: #683594;
+}
+div .card div .text h1 . .About us {
+    position: absolute;
+    width: 400px;
+    height: 90px;
+    left: 1400px;
+    top: 5000px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 90px;
+    text-transform: uppercase;
+    color: #8242A4;
+}
+div .card div .text span {
+    position: absolute;
+    width: 700px;
+    height: 380px;
+    left: 1400px;
+    top: 5100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 50px; 
+    color: rgba(130, 66, 164, 0.83)
+}
+div .text h1  .contact us {
+    position: absolute;
+    width: 400px;
+    height: 90px;
+    left: 250px;
+    top: 5480px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 90px;
+    text-transform: uppercase;
+    color: #8242A4;
+}
+div .text span {
+    position: absolute;
+    width: 1282px;
+    height: 72px;
+    left: 250px;
+    top: 5580px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 50px;
+    color: #882244; 
+}
+div .text p.name {
+    position: absolute;
+    width: 186px;
+    height: 30px;
+    left: 246px;
+    top: 5762px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    color: #F2994A;
+    border: 1px solid #8242A4;
+    box-sizing: border-box;
+}
+div .text p.email {  
+    position: absolute;
+    width: 186px;
+    height: 30px;
+    left: 746px;
+    top: 5762px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    border: 1px solid #8242A4;
+    box-sizing: border-box;
+}
+div .text p.phone{
+position: absolute;
+width: 186px;
+height: 30px;
+left: 1245px;
+top: 5762px;
+font-family: GHEA Grapalat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 25px;
+display: flex;
+align-items: center;
+border: 1px solid #8242A4;
+box-sizing: border-box;
+}
+div .text input{
+position: absolute;
+width: 1460px;
+height: 257px;
+left: 230px;
+top: 5843px;
+border: 2px solid #000000;
+box-sizing: border-box;
+border-radius: 10px;
+}
+div .text  button{
+position: absolute;
+width: 320px;
+height: 60px;
+left: 1368px;
+top: 6130px;
+background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), rgba(130, 66, 164, 0.33);
+border: 1px solid rgba(104, 53, 148, 0.75);
+box-sizing: border-box;
+border-radius: 10px;
+}
+div .card nav .nav-items li {
+    list-style: none;
+    margin-right: 100px;
+}
+.nav-items li:nth-last-of-type(1){
+    margin: 0px;
+}
+div .card nav a.Portfolio{
+    position: absolute;
+    width: 109px;
+    height: 33px;
+    left: 333px;
+    top: 6452px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+div .card nav a.Testimonials{ 
+    position: absolute;
+    width: 160px;
+    height: 33px;
+    left: 498px;
+    top: 6452px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+div .card nav a.Services{
+    position: absolute;
+    width: 106px;
+    height: 33px;
+    left: 709px;
+    top: 6452px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+div .card nav a.Supporters{
+    position: absolute;
+    width: 138px;
+    height: 33px;
+    left: 1120px;
+    top: 6452px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+div .card nav a.About us{
+    position: absolute;
+    width: 112px;
+    height: 33px;
+    left: 1308px;
+    top: 6452px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+div .card nav a.Contact us{ 
+    position: absolute;
+    width: 135px;
+    height: 33px;
+    left: 1474px;
+    top: 6452px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+div .card div .img {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 872;
+    top: 6568px;
+    border-radius: 137px;
+
+}
